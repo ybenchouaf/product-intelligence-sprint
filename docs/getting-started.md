@@ -4,7 +4,8 @@
 
 1. [principles.md](principles.md) — how to think about research in this repo
 2. [methodology.md](methodology.md) — evidence trace and registers
-3. [workflow.md](workflow.md) — full operational workflow
+3. [session-workflow.md](session-workflow.md) — six-step session lifecycle
+4. [workflow.md](workflow.md) — project operations (open, pause, reopen)
 
 ## Open a sprint
 
@@ -16,11 +17,16 @@
 
 ## Run a session
 
-1. Copy [research-session.md](../templates/research-session.md) into `sessions/`
-2. Add evidence to the register before writing interpretive prose
-3. Update hypothesis and opportunity registers when views change
-4. Synthesize into `brief.md` — cite evidence and hypothesis IDs
-5. End with next-session recommendations
+Follow [session-workflow.md](session-workflow.md):
+
+1. **Orient** — review current state
+2. **Gather Evidence** — reliable sources into registers and artifacts
+3. **Synthesize** — facts, inferences, and speculation separated
+4. **Identify Open Questions** — uncertainty explicit
+5. **Create Durable Artifacts** — update registers, brief, session log
+6. **Iterate** — prioritize next highest-value questions
+
+Copy [research-session.md](../templates/research-session.md) into `sessions/` to record each session.
 
 ## Discipline
 

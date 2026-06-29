@@ -44,14 +44,17 @@ Update backlog tables: move row from **Queued** to **In progress**.
 
 ## 3. Research session
 
-A session is a bounded unit of work — typically one sitting or one focused theme.
+Every session follows the same lifecycle. See [session-workflow.md](session-workflow.md) for the full six-step cycle: Orient → Gather Evidence → Synthesize → Identify Open Questions → Create Durable Artifacts → Iterate.
+
+Quick checklist:
 
 1. Copy [research-session.md](../templates/research-session.md) to `sessions/YYYY-MM-DD-<topic>.md`
-2. State session intent at the top
-3. Gather sources into `artifacts/<company-slug>/`; index in artifact README
-4. Add evidence rows before writing interpretive prose
-5. Update hypothesis and opportunity registers when interpretations change
-6. End with: what changed, what is uncertain, recommended next session
+2. **Orient** — review brief, registers, last session, backlog
+3. **Gather** — sources into `artifacts/`; evidence register entries first
+4. **Synthesize** — update understanding; separate facts, inferences, speculation
+5. **Open questions** — capture uncertainty explicitly
+6. **Artifacts** — update registers, brief, session log
+7. **Iterate** — prioritize next actions for the following session
 
 Commit at session end when possible. Small commits preserve continuity better than batch dumps.
 

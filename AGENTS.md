@@ -17,6 +17,7 @@ Read [docs/ai-collaboration.md](docs/ai-collaboration.md) before making changes.
 |------|-----|
 | [docs/principles.md](docs/principles.md) | Governing rules |
 | [docs/methodology.md](docs/methodology.md) | Research trace and registers |
+| [docs/session-workflow.md](docs/session-workflow.md) | Six-step session lifecycle |
 | [docs/workflow.md](docs/workflow.md) | Long-running project operations |
 | [companies/](companies/) | Company briefs, registers, sessions |
 | [research/](research/) | Cross-company synthesis |

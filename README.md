@@ -30,6 +30,7 @@ It is a **product discovery and research system** — designed to produce reusab
 |----------|------|
 | [docs/principles.md](docs/principles.md) | Evidence over assumptions; preserve uncertainty |
 | [docs/methodology.md](docs/methodology.md) | Registers, research trace, iterative synthesis |
+| [docs/session-workflow.md](docs/session-workflow.md) | Six-step research session lifecycle |
 | [docs/workflow.md](docs/workflow.md) | Long-running project workflow |
 
 ## Repository layout

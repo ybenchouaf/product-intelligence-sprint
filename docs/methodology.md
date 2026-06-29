@@ -112,5 +112,6 @@ Before treating a section of the brief as "done enough to act on":
 | Document | Role |
 |----------|------|
 | [workflow.md](workflow.md) | Operational steps for opening and running sprints |
+| [session-workflow.md](session-workflow.md) | Six-step session lifecycle |
 | [principles.md](principles.md) | Governing rules |
 | [getting-started.md](getting-started.md) | Quick start checklist |

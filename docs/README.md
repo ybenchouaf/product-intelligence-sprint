@@ -9,6 +9,7 @@ Operating documentation for the Product Intelligence Sprint system.
 | [principles.md](principles.md) | Governing rules — evidence, uncertainty, continuity |
 | [methodology.md](methodology.md) | Research trace, registers, synthesis rhythm |
 | [workflow.md](workflow.md) | Long-running project operations and folder layout |
+| [session-workflow.md](session-workflow.md) | Six-step research session lifecycle |
 
 ## Guides
 
