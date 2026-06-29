@@ -1,8 +1,8 @@
 # Product Intelligence Sprint
 
-A documentation-first research system for deep product discovery on companies and markets.
+A documentation-first operating system for deep product discovery on companies and markets.
 
-This repository is the long-term home for **Product Intelligence Sprints** — structured research cycles that build durable understanding of how a company operates, where it is headed, and where product opportunity may exist.
+This repository is the long-term home for **Product Intelligence Sprints** — long-running research projects that build durable understanding of how a company operates, where it is headed, and where product opportunity may exist.
 
 ## Purpose
 
@@ -24,32 +24,31 @@ This is **not** interview preparation. It is not a cheat sheet, talking points d
 
 It is a **product discovery and research system** — designed to produce reusable intelligence that compounds over time.
 
+## Operating system
+
+| Document | Role |
+|----------|------|
+| [docs/principles.md](docs/principles.md) | Evidence over assumptions; preserve uncertainty |
+| [docs/methodology.md](docs/methodology.md) | Registers, research trace, iterative synthesis |
+| [docs/workflow.md](docs/workflow.md) | Long-running project workflow |
+
 ## Repository layout
 
 | Path | Role |
 |------|------|
-| [docs/](docs/) | Operating model, conventions, and how to run sprints |
-| [research/](research/) | Cross-company themes, methods, and synthesis |
-| [companies/](companies/) | One folder per company sprint |
-| [artifacts/](artifacts/) | Source material — filings, screenshots, exports, references |
-| [templates/](templates/) | Reusable templates for sprints and notes |
-| [backlog/](backlog/) | Companies and topics queued for future sprints |
+| [docs/](docs/) | Operating model and methodology |
+| [templates/](templates/) | Registers, brief, and session scaffolds |
+| [companies/](companies/) | One folder per company — brief + registers + sessions |
+| [artifacts/](artifacts/) | Source material indexed by company |
+| [research/](research/) | Cross-company synthesis and themes |
+| [backlog/](backlog/) | Queued and in-progress sprints |
 
 ## Getting started
 
-1. Read [docs/getting-started.md](docs/getting-started.md)
+1. Read [docs/principles.md](docs/principles.md) and [docs/workflow.md](docs/workflow.md)
 2. Read [docs/ai-collaboration.md](docs/ai-collaboration.md) if using an AI assistant
-3. Copy [templates/sprint-template.md](templates/sprint-template.md) into `companies/<company-slug>/`
-4. Capture sources in `artifacts/<company-slug>/`
-5. Track queued work in [backlog/](backlog/)
-
-## Principles
-
-- **Documentation-first** — if it is not written down, it does not exist
-- **Lightweight** — prefer markdown, small folders, and incremental commits
-- **Continuous iteration** — sprints can be reopened, extended, and ingested over time
-- **Evidence over narrative** — distinguish facts, observations, and hypotheses
-- **Reusable output** — research should survive beyond a single session or use case
+3. Queue a company in [backlog/backlog.md](backlog/backlog.md)
+4. Copy [templates/](templates/) into `companies/<company-slug>/`
 
 ## Contributing
 

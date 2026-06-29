@@ -2,7 +2,13 @@
 
 Cross-company themes, methods, and synthesis that outlive any single sprint.
 
-Use this folder for:
+## Folders
+
+| Path | Purpose |
+|------|---------|
+| [synthesis/](synthesis/) | Patterns and category insights across companies |
+
+## Use this folder for
 
 - Category maps and market structure notes
 - Recurring patterns across companies
@@ -10,3 +16,7 @@ Use this folder for:
 - Synthesis documents that connect multiple sprints
 
 Company-specific deep dives belong in [companies/](../companies/).
+
+## Trace
+
+Link synthesis notes back to company briefs and evidence IDs. See [docs/methodology.md](../docs/methodology.md).

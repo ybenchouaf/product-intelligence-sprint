@@ -11,6 +11,6 @@ artifacts/
     ...                # exports, screenshots, PDFs, transcripts, etc.
 ```
 
-Keep filenames descriptive. Record provenance (URL, date retrieved, tool used) in the folder README or inline in the sprint doc.
+Keep filenames descriptive. Record provenance (URL, date retrieved, tool used) in the folder README or in the company [evidence register](../templates/evidence-register.md).
 
 Do not commit credentials, paywalled content obtained improperly, or personal data unrelated to product research.

@@ -51,8 +51,9 @@ Prototypes belong in this repository only when research supports them.
 
 **Sufficient research** means, at minimum:
 
-- A populated company sprint with cited sources in market, customers, and workflow friction
-- At least one concrete prototype opportunity tied to evidence — not a generic product idea
+- A populated company brief with cited evidence IDs in market, customers, and workflow friction
+- Evidence, hypothesis, and opportunity registers in active use
+- At least one opportunity row at `grounded` or `ready` status tied to evidence — not a generic product idea
 - Open questions documented where the prototype would test unresolved hypotheses
 
 Until that bar is met, limit work to templates, diagrams of *existing* research, and navigation — not runnable builds.
@@ -85,5 +86,6 @@ Prefer small, purposeful changes:
 |----------|------|
 | [getting-started.md](getting-started.md) | How to open and run a sprint |
 | [merge-policy.md](merge-policy.md) | PR workflow and auto-merge |
-| [../templates/sprint-template.md](../templates/sprint-template.md) | Sprint scaffold |
+| [../templates/company-brief.md](../templates/company-brief.md) | Sprint scaffold |
+| [../templates/evidence-register.md](../templates/evidence-register.md) | Evidence index |
 | [../README.md](../README.md) | Repository purpose and layout |

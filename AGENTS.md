@@ -15,8 +15,11 @@ Read [docs/ai-collaboration.md](docs/ai-collaboration.md) before making changes.
 
 | Path | Use |
 |------|-----|
-| [companies/](companies/) | Company sprint documents |
-| [research/](research/) | Cross-company themes and synthesis |
+| [docs/principles.md](docs/principles.md) | Governing rules |
+| [docs/methodology.md](docs/methodology.md) | Research trace and registers |
+| [docs/workflow.md](docs/workflow.md) | Long-running project operations |
+| [companies/](companies/) | Company briefs, registers, sessions |
+| [research/](research/) | Cross-company synthesis |
 | [artifacts/](artifacts/) | Source material |
 | [templates/](templates/) | Reusable scaffolds |
-| [docs/](docs/) | Operating model |
+| [docs/](docs/) | Full operating documentation |

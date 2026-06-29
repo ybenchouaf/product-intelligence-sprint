@@ -1,31 +1,38 @@
 # Getting Started
 
+## Read first
+
+1. [principles.md](principles.md) — how to think about research in this repo
+2. [methodology.md](methodology.md) — evidence trace and registers
+3. [workflow.md](workflow.md) — full operational workflow
+
 ## Open a sprint
 
-1. Add the company to [backlog/backlog.md](../backlog/backlog.md) if not already listed
-2. Create `companies/<company-slug>/` using a lowercase, hyphenated slug (e.g. `companies/acme-corp/`)
-3. Copy [templates/sprint-template.md](../templates/sprint-template.md) to `companies/<company-slug>/sprint.md`
-4. Create `artifacts/<company-slug>/` for source material linked from the sprint doc
+1. Add the company to [backlog/backlog.md](../backlog/backlog.md)
+2. Create `companies/<company-slug>/` and `artifacts/<company-slug>/`
+3. Copy templates from [templates/](../templates/) — see [workflow.md](workflow.md#2-open-a-company-sprint)
+4. Create `companies/<company-slug>/sessions/`
+5. Set `brief.md` status to `active`
 
-## Run the sprint
+## Run a session
 
-Work through the sections in `sprint.md`. Use this discipline:
+1. Copy [session-template.md](../templates/session-template.md) into `sessions/`
+2. Add evidence to the register before writing interpretive prose
+3. Update hypothesis and opportunity registers when views change
+4. Synthesize into `brief.md` — cite evidence and hypothesis IDs
+5. End with next-session recommendations
 
-- **Facts** — verifiable claims with a source link or artifact reference
-- **Observations** — what you noticed in product use, demos, or materials
-- **Hypotheses** — interpretive claims labeled explicitly as hypotheses
-- **Open questions** — gaps that need more research
+## Discipline
 
-Link artifacts with relative paths. Prefer primary sources (filings, changelogs, product pages, job posts, earnings calls) over secondary summaries.
+- **Facts** — verifiable; source-linked
+- **Observations** — noticed; not yet interpreted
+- **Inferences / hypotheses** — labeled; registered
+- **Uncertainty** — explicit; never edited out for polish
+
+## Pause or resume
+
+See [workflow.md](workflow.md#5-pause) and [workflow.md](workflow.md#6-reopen).
 
 ## Cross-company work
 
-When a theme spans companies, capture it in [research/](../research/) rather than duplicating long passages inside each company folder.
-
-## Close or pause a sprint
-
-Update the sprint status in `sprint.md`. Move incomplete items to open questions or the backlog. Do not delete partial work — mark sections as draft or stub.
-
-## Reopen a sprint
-
-Sprints are living documents. Add a dated note at the top of `sprint.md` when resuming work after a pause.
+Themes spanning companies go in [research/synthesis/](../research/synthesis/).
