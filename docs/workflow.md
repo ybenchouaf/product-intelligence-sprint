@@ -33,7 +33,7 @@ Add the company or theme to [backlog/backlog.md](../backlog/backlog.md) with a s
 | [company-brief.md](../templates/company-brief.md) | `brief.md` |
 | [evidence-register.md](../templates/evidence-register.md) | `evidence-register.md` |
 | [hypothesis-register.md](../templates/hypothesis-register.md) | `hypothesis-register.md` |
-| [opportunity-register.md](../templates/opportunity-register.md) | `opportunity-register.md` |
+| [prototype-opportunity-register.md](../templates/prototype-opportunity-register.md) | `prototype/register.md` |
 
 4. Create `companies/<company-slug>/sessions/`
 5. Set brief status to `active` and record intent
@@ -46,7 +46,7 @@ Update backlog tables: move row from **Queued** to **In progress**.
 
 A session is a bounded unit of work — typically one sitting or one focused theme.
 
-1. Copy [session-template.md](../templates/session-template.md) to `sessions/YYYY-MM-DD-<topic>.md`
+1. Copy [research-session.md](../templates/research-session.md) to `sessions/YYYY-MM-DD-<topic>.md`
 2. State session intent at the top
 3. Gather sources into `artifacts/<company-slug>/`; index in artifact README
 4. Add evidence rows before writing interpretive prose

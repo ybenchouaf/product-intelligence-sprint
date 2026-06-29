@@ -16,7 +16,7 @@
 
 ## Run a session
 
-1. Copy [session-template.md](../templates/session-template.md) into `sessions/`
+1. Copy [research-session.md](../templates/research-session.md) into `sessions/`
 2. Add evidence to the register before writing interpretive prose
 3. Update hypothesis and opportunity registers when views change
 4. Synthesize into `brief.md` — cite evidence and hypothesis IDs

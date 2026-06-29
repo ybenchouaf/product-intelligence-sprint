@@ -20,7 +20,7 @@ Source → Evidence → Inference / Hypothesis → Synthesis → Opportunity
 | **Evidence** | Indexed claim or observation tied to a source | `evidence-register.md` per company |
 | **Inference / Hypothesis** | Interpreted or predictive claim | Brief sections + `hypothesis-register.md` |
 | **Synthesis** | Compressed understanding across evidence | `brief.md`, [research/synthesis/](../research/synthesis/) |
-| **Opportunity** | Testable product or workflow idea | `opportunity-register.md` |
+| **Opportunity** | Testable product or workflow idea | `prototype/register.md` |
 
 The trace is rarely linear. New sources reopen old hypotheses. Opportunities surface friction that sends you back to evidence. Document links at each hop.
 
@@ -46,7 +46,7 @@ See [templates/hypothesis-register.md](../templates/hypothesis-register.md).
 
 Product or workflow ideas grounded in evidence and hypotheses. Entries stay dormant until the research bar for prototyping is met.
 
-See [templates/opportunity-register.md](../templates/opportunity-register.md).
+See [templates/prototype-opportunity-register.md](../templates/prototype-opportunity-register.md).
 
 ---
 

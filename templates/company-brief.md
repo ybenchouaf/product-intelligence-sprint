@@ -19,7 +19,7 @@ What product question(s) does this sprint aim to answer?
 |----------|------|
 | Evidence | [evidence-register.md](evidence-register.md) |
 | Hypotheses | [hypothesis-register.md](hypothesis-register.md) |
-| Opportunities | [opportunity-register.md](opportunity-register.md) |
+| Opportunities | [prototype-opportunity-register.md](prototype-opportunity-register.md) |
 | Sessions | [sessions/](sessions/) |
 | Artifacts | [../../artifacts/{company-slug}/](../../artifacts/{company-slug}/) |
 

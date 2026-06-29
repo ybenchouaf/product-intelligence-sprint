@@ -9,8 +9,8 @@ Use instead:
 | [company-brief.md](company-brief.md) | Long-running narrative synthesis |
 | [evidence-register.md](evidence-register.md) | Facts and observations |
 | [hypothesis-register.md](hypothesis-register.md) | Testable claims |
-| [opportunity-register.md](opportunity-register.md) | Grounded opportunities |
-| [session-template.md](session-template.md) | Per-session work logs |
+| [prototype-opportunity-register.md](prototype-opportunity-register.md) | Grounded opportunities |
+| [research-session.md](research-session.md) | Per-session work logs |
 
 See [docs/workflow.md](../docs/workflow.md).
 

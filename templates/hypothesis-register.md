@@ -1,6 +1,6 @@
 # Hypothesis Register — {Company Name}
 
-Testable claims derived from evidence. Link to evidence IDs; update status when supported, weakened, or falsified.
+Testable claims derived from evidence. Update **Status** when evidence strengthens, weakens, or falsifies a hypothesis.
 
 | Field | Value |
 |-------|-------|
@@ -12,17 +12,51 @@ Testable claims derived from evidence. Link to evidence IDs; update status when 
 ## How to use
 
 - Assign stable IDs: `H-001`, `H-002`, …
-- List **supporting** and **contradicting** evidence IDs — not prose summaries
+- Link evidence by ID (`E-###`) in supporting and contradicting columns
+- **Confidence**: `high`, `medium`, `low`, `unknown`
 - **Status**: `open`, `strengthened`, `weakened`, `falsified`, `retired`
-- Record **falsifiers** — what observation would change your mind
 
 ---
 
-## Register
+## Index
 
-| ID | Hypothesis | Supporting evidence | Contradicting evidence | Confidence | Status | Falsifiers | Last reviewed |
-|----|------------|---------------------|------------------------|------------|--------|------------|---------------|
-| | | | | | `open` | | |
+| ID | Hypothesis | Confidence | Status |
+|----|------------|------------|--------|
+| | | | `open` |
+
+---
+
+## Entries
+
+Copy this block for each hypothesis.
+
+### {H-###}
+
+| Field | Value |
+|-------|-------|
+| **ID** | `H-###` |
+| **Confidence** | `{high \| medium \| low \| unknown}` |
+| **Status** | `{open \| strengthened \| weakened \| falsified \| retired}` |
+
+#### Hypothesis
+
+{Clear, testable claim.}
+
+#### Supporting Evidence
+
+| Evidence ID | What it supports |
+|-------------|------------------|
+| | |
+
+#### Contradicting Evidence
+
+| Evidence ID | What it contradicts |
+|-------------|---------------------|
+| | |
+
+#### Validation Plan
+
+{What would confirm or falsify this hypothesis — sources to check, product behavior to observe, signals to monitor.}
 
 ---
 
