@@ -1,7 +1,7 @@
 # Sprint backlog
 
-Questions, themes, and sources queued for this Bridgit sprint.
+| File | Purpose |
+|------|---------|
+| [research-backlog.md](research-backlog.md) | Open questions, gaps, next priorities |
 
-Repo-wide queue: [backlog/backlog.md](../../../backlog/backlog.md).
-
-No items queued yet.
+Repo-wide queue: [backlog/backlog.md](../../../backlog/backlog.md)

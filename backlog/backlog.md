@@ -12,7 +12,7 @@ Companies and themes queued for Product Intelligence Sprints.
 
 | Slug | Company | Sprint doc | Started |
 |------|---------|------------|---------|
-| `bridgit` | Bridgit | [companies/bridgit/README.md](../companies/bridgit/README.md) | Scaffold — research not started |
+| `bridgit` | Bridgit | [companies/bridgit/README.md](../companies/bridgit/README.md) | v0.1 seed ingested — 2026-06-28 |
 
 ## Completed
 

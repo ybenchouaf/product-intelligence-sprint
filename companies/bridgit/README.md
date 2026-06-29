@@ -1,58 +1,59 @@
-# Bridgit — Product Intelligence Sprint
+# Bridgit Product Intelligence Sprint
+
+Long-running product discovery research on Bridgit — construction workforce planning / AI workforce intelligence.
 
 | Field | Value |
 |-------|-------|
 | **Slug** | `bridgit` |
-| **Status** | `draft` |
-| **Opened** | `{YYYY-MM-DD}` |
-| **Last updated** | `{YYYY-MM-DD}` |
+| **Status** | `active` |
+| **Seed version** | v0.1 (public sources only) |
+| **Last updated** | 2026-06-28 |
 
-## Sprint intent
+## Purpose
 
-<!-- What product discovery questions should this sprint answer? -->
+Build durable understanding of Bridgit across market, customers, product, strategy, competition, workflow friction, and prototype opportunities — grounded in evidence, not interview prep.
 
-{Describe the primary product intelligence questions for Bridgit.}
+## What this sprint is not
 
-## Goals
+Public-source v0.1 only. No customer calls, internal docs, pricing validation, or direct product access yet.
 
-This sprint aims to build durable understanding of Bridgit across:
+## How to use this folder
 
-| Dimension | Goal |
-|-----------|------|
-| **Market** | {Placeholder — category, dynamics, timing, structural forces} |
-| **Customers** | {Placeholder — segments, jobs-to-be-done, adoption patterns, unmet needs} |
-| **Product strategy** | {Placeholder — positioning, differentiation, strategic bets} |
-| **Product history** | {Placeholder — major launches, pivots, evolutionary patterns} |
-| **Business trajectory** | {Placeholder — growth model, revenue mix, inflection points} |
-| **Competition** | {Placeholder — alternatives, moats, substitution risk} |
-| **Likely roadmap** | {Placeholder — evidence-based hypotheses about near-term direction} |
-| **Workflow friction** | {Placeholder — where users struggle in existing products and workflows} |
-| **Prototype opportunities** | {Placeholder — testable ideas grounded in research} |
+1. **Restart work** — read [continuity/current-state.md](continuity/current-state.md)
+2. **Sprint intent** — [continuity/project-brief.md](continuity/project-brief.md)
+3. **Canonical seed** — [research/research-seed-v0.1.md](research/research-seed-v0.1.md) (verbatim v0.1; do not edit in place)
+4. **Atomic research** — `research/` subfolders (company, product, customers, strategy)
+5. **Living registers** — `registers/` (evidence, hypotheses, prototype opportunities)
+6. **Next work** — [backlog/research-backlog.md](backlog/research-backlog.md)
 
-## Folder layout
+## Session workflow
 
-| Path | Purpose |
-|------|---------|
-| [continuity/](continuity/) | Sprint continuity — status, changelog, resume context |
-| [evidence/](evidence/) | Facts and observations indexed with sources |
-| [hypotheses/](hypotheses/) | Testable claims linked to evidence |
-| [research/](research/) | Working notes and thematic research memos |
-| [prototype/](prototype/) | Prototype specs — only after sufficient research |
-| [backlog/](backlog/) | Sprint-scoped questions and topics to investigate |
-| [sessions/](sessions/) | Per-session work logs |
+Follow [docs/session-workflow.md](../../docs/session-workflow.md): Orient → Gather Evidence → Synthesize → Open Questions → Artifacts → Iterate.
 
-## Registers and synthesis
+Log sessions in `sessions/` using [templates/research-session.md](../../templates/research-session.md).
 
-Research state lives in the folders above. Cross-company synthesis belongs in [research/synthesis/](../../research/synthesis/).
+## Layout
 
-Source material belongs in [artifacts/bridgit/](../../artifacts/bridgit/).
+```text
+companies/bridgit/
+├── README.md                 # this file
+├── continuity/
+│   ├── project-brief.md
+│   └── current-state.md
+├── research/
+│   ├── research-seed-v0.1.md
+│   ├── company/timeline.md
+│   ├── product/current-product.md
+│   ├── customers/personas.md
+│   ├── customers/workflow-map.md
+│   └── strategy/roadmap-hypotheses.md
+├── registers/
+│   ├── evidence-register.md
+│   ├── hypothesis-register.md
+│   └── prototype-opportunity-register.md
+├── backlog/
+│   └── research-backlog.md
+└── sessions/                 # per-session logs
+```
 
-## Open questions
-
--
-
-## Changelog
-
-| Date | Change |
-|------|--------|
-| | Sprint scaffold created — no research performed yet |
+Source artifacts (PDFs, screenshots, exports) belong in [artifacts/bridgit/](../../artifacts/bridgit/).

@@ -1,11 +1,8 @@
 # Continuity
 
-Sprint continuity artifacts — what a future session needs to resume without reconstructing context.
+Sprint continuity for resuming work.
 
-Use this folder for:
-
-- Status snapshots and resume notes
-- Changelog entries that span multiple sessions
-- Links to the last session and next recommended actions
-
-No research content yet.
+| File | Purpose |
+|------|---------|
+| [project-brief.md](project-brief.md) | Sprint intent, boundaries, success criteria |
+| [current-state.md](current-state.md) | Short restart brief — read this first |
