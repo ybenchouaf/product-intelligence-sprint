@@ -1,3 +1,3 @@
 # Evidence
 
-Facts and observations tied to sources. Copy [templates/evidence-register.md](../../../templates/evidence-register.md) to `register.md` when starting evidence collection.
+Working folder for source notes and captures. **Canonical register:** [../registers/evidence-register.md](../registers/evidence-register.md)

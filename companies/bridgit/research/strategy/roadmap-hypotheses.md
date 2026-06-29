@@ -9,6 +9,33 @@ Source: v0.1 seed, sections 9, 15, 16. Facts, inferences, and speculation separa
 - Global growth: UK, ANZ
 - 2026 focus: analytics, global support, AI, self-perform (per 2025 close announcement)
 
+## Workforce intelligence predates AI positioning
+
+**FACT (E018):** TechCrunch used "workforce intelligence" in Oct 2021.
+
+**INFERENCE:** Workforce intelligence thesis is older than current AI-first homepage framing. **Confidence: High.** Strengthens H001.
+
+## AI and forecasting depend on trusted data
+
+**INFERENCE:** AI recommendations and forecasting outputs are only as useful as integrated, current workforce data — aligns with H002, H008. **Confidence: Medium-high** (product logic + Bridgit messaging; customer validation open).
+
+## Reporting artifacts vs generic AI
+
+**INFERENCE (H009):** Reporting and executive-ready artifacts may be a **stronger near-term prototype lane** than generic AI chat — supported by E022 reviewer friction. **Confidence: Medium-high.**
+
+Does not approve building; prototype gate remains closed (O010 strengthened, not approved).
+
+## Specialty / craft: GTM vs product readiness
+
+Split per H003:
+
+| Track | Claim | Confidence |
+|-------|-------|------------|
+| **H003a — GTM intent** | Self-perform / specialty / craft expansion is a stated direction | Medium-high |
+| **H003b — Product readiness** | Product and pricing fully ready for craft-scale planning | Low-medium |
+
+**FACT (E013)** supports intent; **FACT (E024)** qualifies readiness.
+
 ## Roadmap inferences
 
 | Hypothesis | Rationale | Confidence |
@@ -55,8 +82,8 @@ Source: v0.1 seed, sections 9, 15, 16. Facts, inferences, and speculation separa
 
 ## Related hypotheses
 
-H001 (workforce intelligence wedge), H003 (specialty 2026), H008 (data quality tooling)
+H001, H003a, H003b, H008, H009, H010
 
 ## Related evidence
 
-E005, E013, E014
+E005, E013, E014, E018, E022

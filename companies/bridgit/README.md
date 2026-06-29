@@ -6,8 +6,8 @@ Long-running product discovery research on Bridgit — construction workforce pl
 |-------|-------|
 | **Slug** | `bridgit` |
 | **Status** | `active` |
-| **Seed version** | v0.1 (public sources only) |
-| **Last updated** | 2026-06-28 |
+| **Seed version** | v0.1 + Session 01 |
+| **Last updated** | 2026-06-29 |
 
 ## Purpose
 
@@ -15,7 +15,11 @@ Build durable understanding of Bridgit across market, customers, product, strate
 
 ## What this sprint is not
 
-Public-source v0.1 only. No customer calls, internal docs, pricing validation, or direct product access yet.
+Not interview prep. Session 01 added third-party reviews and press — still no customer calls, internal docs, or direct product access.
+
+## Registers
+
+Canonical living files: [registers/](registers/). Folders `evidence/` and `hypotheses/` are working-note areas only.
 
 ## How to use this folder
 

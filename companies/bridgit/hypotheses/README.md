@@ -1,3 +1,3 @@
 # Hypotheses
 
-Testable claims derived from evidence. Copy [templates/hypothesis-register.md](../../../templates/hypothesis-register.md) to `register.md` when starting hypothesis tracking.
+Working folder for hypothesis drafts. **Canonical register:** [../registers/hypothesis-register.md](../registers/hypothesis-register.md)

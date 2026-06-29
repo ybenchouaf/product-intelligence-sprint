@@ -9,6 +9,8 @@ Atomic research memos for the Bridgit sprint.
 | [product/current-product.md](product/current-product.md) | Product modules and evolution |
 | [customers/personas.md](customers/personas.md) | Customer personas |
 | [customers/workflow-map.md](customers/workflow-map.md) | Workforce planning lifecycle |
+| [customers/customer-voice.md](customers/customer-voice.md) | Session 01 — review evidence |
 | [strategy/roadmap-hypotheses.md](strategy/roadmap-hypotheses.md) | Roadmap facts, inferences, speculation |
+| [strategy/competitive-positioning.md](strategy/competitive-positioning.md) | Session 01 — competitive notes |
 
 Living registers: [../registers/](../registers/)

@@ -1,56 +1,52 @@
 # Current state — restart brief
 
-**Status:** Active — v0.1 seed ingested, atomic docs split, registers populated from seed.
+**Status:** Active — Session 01 complete (customer voice + competitive evidence).
 
-**Last meaningful update:** 2026-06-28 (knowledge base scaffold from public-source seed).
+**Last meaningful update:** 2026-06-29
 
-## What we believe (high confidence)
+## High confidence
 
-- Bridgit is **AI workforce planning for construction**, not generic PM.
-- Major **2019 pivot** from field PM to Bridgit Bench / workforce planning.
-- Public AI features: **Ask Bridgit, Import Roles, Smart Suggestions**.
-- Product modules: planning, forecasting, internal resumes / experience tracking, integrations, communication.
-- **Enterprise integrations** (CRM, HRIS, PM, ERP, data warehouse) are central to the story.
-- Biggest workflow competitor may be **Excel + meetings**, not a single SaaS vendor.
+- AI workforce planning for construction; integrations central to story
+- Excel / spreadsheets + meetings are the practical competitor (E020, E021)
+- Reporting weakness directly supported by reviews (E022)
+- "Workforce intelligence" framing in 2021 predates AI homepage (E018)
+- Timeline: late 2012 founding; Field Mar 2014; Bench 2019; Autodesk CAD$9M 2020 (E019)
 
-## What is interpretive (medium confidence)
+## Interpretive (medium)
 
-- Bridgit is becoming a **workforce intelligence layer** across pursuit, people, and project data.
-- **Specialty contractors** are a 2026 expansion vector.
-- **Customer success / implementation** likely core to retention.
-- Brand may be broadening from "Bridgit Bench" to platform "Bridgit."
+- Reporting artifacts may beat generic AI as near-term opportunity (H009) — **prototype gate closed**
+- Suite absorption risk from Procore/ERP (H010) — **not verified**
+- Craft GTM intent (H003a) may outpace product readiness (H003b)
+- Skills/experience model may be shallow vs strategic framing (E023, H005 qualified)
+- IT/CIO in buying orbit (E026) — buyer vs blocker **unknown**
 
-## What we do not know
+## Weak / open
 
-- Pricing model, packaging, typical deal size.
-- Implementation timeline and adoption/churn risks.
-- API data model depth, permissions granularity.
-- Data cleanup required before AI is useful.
-- Module adoption mix (Forecasting vs Planning vs AI).
-- EU/UK data residency details.
+- Pricing: ITQlick $10–20/user (E025) — **low confidence**, not Bridgit-confirmed
+- Procore partner vs competitor overlap — **medium-low**, needs validation
 
-## Open registers
+## Registers
 
 | Register | Path | Rows |
 |----------|------|------|
-| Evidence | [registers/evidence-register.md](../registers/evidence-register.md) | E001–E017 |
-| Hypotheses | [registers/hypothesis-register.md](../registers/hypothesis-register.md) | H001–H008 |
+| Evidence | [registers/evidence-register.md](../registers/evidence-register.md) | E001–E026 |
+| Hypotheses | [registers/hypothesis-register.md](../registers/hypothesis-register.md) | H001–H010 |
 | Prototypes | [registers/prototype-opportunity-register.md](../registers/prototype-opportunity-register.md) | O001–O010 |
 
-## Next research priorities
+Working notes: `evidence/`, `hypotheses/` (source captures — not canonical registers).
 
-1. Product-history scrape (press, archives, release naming).
-2. Competitor teardown — **Procore Resource Management**, **Assignar**.
-3. Customer voice — structured case study table.
-4. Hiring signals — LinkedIn, job boards, archived postings.
-5. Validate pricing and implementation model.
+## Next priorities
+
+1. Validate pricing from Bridgit or sales artifacts
+2. Procore partnership / competitive overlap
+3. Reporting exports and executive downstream workflows
+4. Skills/experience data model depth
+5. Craft vs salaried workforce segmentation
+6. IT/CIO role (buyer, sponsor, blocker)
+7. Current open roles at Bridgit (careers page capture)
 
 Full backlog: [backlog/research-backlog.md](../backlog/research-backlog.md)
 
-## Read order when resuming
+## Resume
 
-1. This file
-2. [project-brief.md](project-brief.md)
-3. [registers/hypothesis-register.md](../registers/hypothesis-register.md) — open hypotheses
-4. Last session in `sessions/` (none yet)
-5. [research/research-seed-v0.1.md](../research/research-seed-v0.1.md) if provenance needed
+1. This file → 2. [sessions/2026-06-29-session-01-customer-voice.md](../sessions/2026-06-29-session-01-customer-voice.md) → 3. hypothesis register

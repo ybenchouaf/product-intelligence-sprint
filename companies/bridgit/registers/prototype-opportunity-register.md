@@ -5,7 +5,7 @@ Living file. v0.1 seed opportunities O001–O010. Status `exploratory` until mor
 | Field | Value |
 |-------|-------|
 | **Company slug** | `bridgit` |
-| **Last updated** | 2026-06-28 |
+| **Last updated** | 2026-06-29 |
 
 ## Index
 
@@ -20,7 +20,7 @@ Living file. v0.1 seed opportunities O001–O010. Status `exploratory` until mor
 | O007 | Crew Move Planner | Specialty contractor ops | High | Medium | Medium-high | exploratory |
 | O008 | Assignment Communication Digest | PMs / field leaders | Medium | Low | High | exploratory |
 | O009 | Retention and Career Fit Signals | HR / Ops | Medium | Medium-high | Medium | exploratory |
-| O010 | Executive Workforce Health Report | COO / exec team | High | Low-medium | High | exploratory |
+| O010 | Executive Workforce Health Report | COO / exec team | High | Low-medium | High | strengthened — gate closed |
 
 **Seed recommendation:** Best first prototypes — **O001** (Staffing Meeting Brief) + **O002** (Scenario Explainer).
 
@@ -105,10 +105,39 @@ COO / Ops / BD
 
 ---
 
-*O003–O010: see index and [research-seed-v0.1.md](../research/research-seed-v0.1.md) section 17.*
+*O003–O009: see index and [research-seed-v0.1.md](../research/research-seed-v0.1.md) section 17.*
+
+### O010 — Executive Workforce Health Report
+
+| Field | Value |
+|-------|-------|
+| **Confidence** | High |
+| **Estimated Impact** | High |
+| **Estimated Complexity** | Low-medium |
+| **Status** | strengthened — **not approved to build** |
+
+#### Opportunity
+
+Executive Workforce Health Report — concise utilization, bench cost, pipeline risk narrative for leadership review.
+
+#### Evidence
+
+| ID | Relevance |
+|----|-----------|
+| E022 | Dashboard/reporting friction; printable outputs |
+| E020, E021 | Excel export / manual narrative behavior (inference) |
+
+#### Why it matters
+
+Supports a lightweight **planning artifact** prototype lane (H009) — but executive reporting workflows are not validated.
+
+#### Gate
+
+**Do not build yet.** Next validation: what executives actually use after data leaves Bridgit.
 
 ## Changelog
 
 | Date | Change |
 |------|--------|
 | 2026-06-28 | Populated O001–O010 from v0.1 seed |
+| 2026-06-29 | Session 01: strengthened O010; prototype gate remains closed |

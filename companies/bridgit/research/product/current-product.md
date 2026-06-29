@@ -49,6 +49,32 @@ Autodesk Build, Procore, CMiC, Salesforce, Microsoft Dynamics, Unanet CRM, HubSp
 
 **INFERENCE:** "Bridgit Bench" still in older materials; current messaging leads with "Bridgit" and "AI workforce planning" — possible platform brand broadening. **Confidence: Medium.**
 
+## Session 01 — qualified product findings
+
+### Reporting and dashboards
+
+**FACT (E022):** Capterra and G2 reviewers request stronger dashboards, reporting, printable outputs, and better reporting features.
+
+**INFERENCE:** Reporting and executive-ready outputs are a meaningful product gap. **Confidence: High** for reviewer-stated friction; **medium** for severity in all segments.
+
+### Forecasting trust
+
+**INFERENCE:** Some reviewers describe forecasting value but also friction understanding or trusting outputs — **not** uniform "forecasting is untrusted." **Confidence: Medium** (F5 revised — do not overstate).
+
+Further validation needed on which forecasting views drive distrust vs. training gap.
+
+### Skills / experience modeling depth
+
+**FACT (E023):** G2 reviewer: skill tracking supports simple tagging; lacks deeper skill level / experience modeling.
+
+**INFERENCE:** Strategic framing on Internal Resumes may run ahead of current model depth. **Confidence: Medium-high** for shallow tagging; **medium** for strategic gap.
+
+### Craft / self-perform expansion
+
+**FACT (E024):** Capterra reviewer: craft-resource expansion would require functionality and pricing-model adjustment.
+
+**INFERENCE:** Craft expansion may need **product and packaging changes**, not only GTM. **Confidence: Medium-high** (single reviewer; segment unknown).
+
 ## Related evidence
 
-E005–E009, E012, E013
+E005–E009, E012, E013, E022, E023, E024
